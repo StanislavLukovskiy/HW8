@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HW8\t3\bin\Debug\net7.0\t3.exe
+C:\Users\User\Desktop\HW8\t3\bin\Debug\net7.0\t3.deps.json
+C:\Users\User\Desktop\HW8\t3\bin\Debug\net7.0\t3.runtimeconfig.json
+C:\Users\User\Desktop\HW8\t3\bin\Debug\net7.0\t3.dll
+C:\Users\User\Desktop\HW8\t3\bin\Debug\net7.0\t3.pdb
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\t3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\t3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\t3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\t3.AssemblyInfo.cs
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\t3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\t3.dll
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\refint\t3.dll
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\t3.pdb
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\t3.genruntimeconfig.cache
+C:\Users\User\Desktop\HW8\t3\obj\Debug\net7.0\ref\t3.dll
